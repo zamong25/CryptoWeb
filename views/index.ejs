@@ -7,7 +7,6 @@
     <link href="/stylesheets/style.css" type="text/css" rel="stylesheet">
     </link>
 </head>
-
 <body>
     <div class="map_wrap">
         <div id="map" style="width:100%;height:100%;position:relative;overflow:hidden;"></div>
@@ -25,8 +24,8 @@
         </div>
     </div>
     <script type="text/javascript"
-        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5b744676bffa5b44d8895f0e24ca6c62"></script>
-    <script>
+        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5b744676bffa5b44d8895f0e24ca6c62&libraries=services"></script>
+    <script type="text/javascript">
         var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
             mapOption = {
                 center: new kakao.maps.LatLng(33.450701, 126.570667), // 지도의 중심좌표
@@ -35,7 +34,7 @@
 
         var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
 
-        var position = new kakao.maps.LatLng(33.450701, 126.570667);
+        var geocoder = new kakao.maps.services.Geocoder(); // 주소-좌표 변환 객체를 생성합니다
 
         /**
          * custom image
@@ -47,14 +46,34 @@
         // 마커의 이미지정보를 가지고 있는 마커이미지를 생성합니다
         var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize, imageOption)
 
-        var marker = new kakao.maps.Marker({
-            position: position,
-            clickable: true, // 마커를 클릭했을 때 지도의 클릭 이벤트가 발생하지 않도록 설정합니다
-            image: markerImage
-        });
 
-        // 마커를 지도에 표시합니다.
-        marker.setMap(map);
+        // 주소로 좌표를 검색합니다
+        var addr = '서울시 성북구';
+        geocoder.addressSearch(addr, function(result, status) {
+
+            // 정상적으로 검색이 완료됐으면 
+            if (status === kakao.maps.services.Status.OK) {
+
+                var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
+
+                // 결과값으로 받은 위치를 마커로 표시합니다
+                var marker = new kakao.maps.Marker({
+                    map: map,
+                    position: coords,
+                    image: markerImage,
+                    clickable: true // 마커를 클릭했을 때 지도의 클릭 이벤트가 발생하지 않도록 설정합니다
+                });
+
+                // 인포윈도우로 장소에 대한 설명을 표시합니다
+                var infowindow = new kakao.maps.InfoWindow({
+                    content: '<div style="width:150px;text-align:center;padding:6px 0;">우리회사</div>'
+                });
+                infowindow.open(map, marker);
+
+                // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
+                map.setCenter(coords);
+            }
+        });    
 
         /**
          * execute event 
@@ -105,5 +124,4 @@
         }
     </script>
 </body>
-
 </html>
