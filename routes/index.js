@@ -27,9 +27,8 @@ const martInfo = jsonData.map((data, index) => {
 
 router.get('/', function(req, res) {
   fs.readFile("./martinfo.json", 'utf8', function (err, data) {
-    // var mart = JSON.parse(data);
-    console.log(data.name);
-    // res.render(__dirname + "/views/index.ejs", { mart : JSON.stringify(mart) });
+    var mart = JSON.parse(data);
+    res.render("index.ejs", { mart : mart });
   });
 });
 
