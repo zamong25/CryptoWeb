@@ -25,11 +25,18 @@ const { localsName } = require('ejs');
 //   res.render('index', { title: 'Express' });
 // });
 
+
 router.get('/', function(req, res) {
   fs.readFile("./martinfo.json", 'utf8', function (err, data) {
     var mart = JSON.parse(data);
     res.render("index.ejs", { mart : mart });
   });
+});
+
+router.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
 });
 
 module.exports = router;
