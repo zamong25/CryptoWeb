@@ -3,18 +3,18 @@ const router = express.Router();
 const xlsx = require('xlsx');
 const fs = require('fs');
 const { localsName } = require('ejs');
-const excel = xlsx.readFile('/Users/uzzing/Repository_Github/MartInfo_Web/Excel/MartInfo.xlsx');
-const sheetName = excel.SheetNames[0];
-const firstSheet = excel.Sheets[sheetName];
-const jsonData = xlsx.utils.sheet_to_json(firstSheet, { defval : "" });
+// const excel = xlsx.readFile('/Users/uzzing/Repository_Github/MartInfo_Web/Excel/MartInfo.xlsx');
+// const sheetName = excel.SheetNames[0];
+// const firstSheet = excel.Sheets[sheetName];
+// const jsonData = xlsx.utils.sheet_to_json(firstSheet, { defval : "" });
 
-const martInfo = jsonData.map((data, index) => {
-   return { 
-     name: data['Name'],
-     index: index + 3,
-     address: data['Address']
-   }
-});
+// const martInfo = jsonData.map((data, index) => {
+//    return { 
+//      name: data['Name'],
+//      index: index + 3,
+//      address: data['Address']
+//    }
+// });
 
 // fs.writeFile('./martinfo.json', JSON.stringify(martInfo), 'utf8', () => {
 //     console.log('Done');
