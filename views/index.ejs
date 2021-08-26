@@ -3,14 +3,15 @@
 
 <head>
     <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet"></link>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@300&display=swap" rel="stylesheet"></link>
     <title>Home</title>
-    <link href="/stylesheets/style.css" type="text/css" rel="stylesheet">
-    </link>
+    <link href="/stylesheets/style.css" type="text/css" rel="stylesheet"></link>
 </head>
 
 <body>
     <header>
-        <h1>YUHA</h1>
+        <h2>HELLO MART</h2>
         <nav>
           <span></span>
           <span></span>
@@ -18,11 +19,10 @@
         </nav>
     </header>
         <input type="checkbox" name="">
-        <span class="icon"></span>
+        <div class="icon"><img src="./Image/toggle_leftbar.png"></div>
         <div class="contentNode">
             <iframe class="mart_info" id="mart_info" scrolling="yes"></iframe>
         </div>
-        <div class="toggle_left"></div>
         <div class="map_wrap">
             <div id="map" style="width:100%;height:100%;position:relative;overflow:hidden;"></div>
             <!-- 지도타입 컨트롤 div 입니다 -->
@@ -77,9 +77,9 @@
         /**
          * custom image
          **/
-        var imageSrc = 'https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/marker_red.png', // 마커이미지의 주소입니다    
-            imageSize = new kakao.maps.Size(35, 25), // 마커이미지의 크기입니다
-            imageOption = { offset: new kakao.maps.Point(27, 69) }; // 마커이미지의 옵션입니다. 마커의 좌표와 일치시킬 이미지 안에서의 좌표를 설정합니다.
+        var imageSrc = './Image/marker_yellow.png', // 마커이미지의 주소입니다    
+            imageSize = new kakao.maps.Size(35, 40), // 마커이미지의 크기입니다
+            imageOption = { offset: new kakao.maps.Point(17, 59) }; // 마커이미지의 옵션입니다. 마커의 좌표와 일치시킬 이미지 안에서의 좌표를 설정합니다.
 
         // 마커의 이미지정보를 가지고 있는 마커이미지를 생성합니다
         var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize, imageOption)
@@ -104,7 +104,9 @@
 
                     // 인포윈도우로 장소에 대한 설명을 표시합니다
                     const infowindow = new kakao.maps.InfoWindow({
-                        content: '<div style="width:150px;text-align:center;padding:6px 0;">' + '<%= mart.list[i].name %>' + '</div>'
+                        content: '<div style="width:auto;text-align:center;padding:6px 0;border-radius:10px;">' 
+                                        + '<%= mart.list[i].name %>' 
+                                + '</div>'
                     });
 
                     kakao.maps.event.addListener(marker, "mouseover", function() {
@@ -117,11 +119,8 @@
 
                     // 마커에 클릭이벤트를 등록합니다
                     kakao.maps.event.addListener(marker, 'click', function () {
-
-                        // 마커 위에 인포윈도우를 표시합니다
-                        infowindow.open(map, marker);
-                        
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
+                        console.log('<%= mart.list[i].entpId %>');
                     });
 
                     // for cluster
