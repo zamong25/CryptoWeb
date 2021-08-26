@@ -10,6 +10,7 @@ const { localsName } = require('ejs');
 
 // const martInfo = jsonData.map((data, index) => {
 //    return { 
+//      entpId: data['entpId'],
 //      name: data['Name'],
 //      index: index + 3,
 //      address: data['Address']
@@ -38,5 +39,7 @@ router.use(function(req, res, next) {
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
 });
+
+router.use(express.static("public"));
 
 module.exports = router;
