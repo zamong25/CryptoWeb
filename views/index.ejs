@@ -120,13 +120,12 @@
                     // 마커에 클릭이벤트를 등록합니다
                     kakao.maps.event.addListener(marker, 'click', function () {
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
-                        console.log('<%= mart.list[i].entpId %>');
                     });
 
                     // for cluster
                     markers.push(marker);
                 }
-                //클러스터러에 마커들을 추가합니다
+                // 클러스터러에 마커들을 추가합니다
                 clusterer.addMarkers(markers);
             });
         <% } %>
