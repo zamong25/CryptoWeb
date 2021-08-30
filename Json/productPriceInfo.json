@@ -1,0 +1,2918 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "UTF-8"
+        }
+    },
+    "response": {
+        "result": {
+            "iros.openapi.service.vo.goodPriceVO": [
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1003"
+                    },
+                    "goodPrice": {
+                        "_text": "1400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1004"
+                    },
+                    "goodPrice": {
+                        "_text": "3600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1008"
+                    },
+                    "goodPrice": {
+                        "_text": "3100"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1011"
+                    },
+                    "goodPrice": {
+                        "_text": "3900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1016"
+                    },
+                    "goodPrice": {
+                        "_text": "1100"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1025"
+                    },
+                    "goodPrice": {
+                        "_text": "4200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1027"
+                    },
+                    "goodPrice": {
+                        "_text": "3200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1028"
+                    },
+                    "goodPrice": {
+                        "_text": "4900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1029"
+                    },
+                    "goodPrice": {
+                        "_text": "5500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1030"
+                    },
+                    "goodPrice": {
+                        "_text": "900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1032"
+                    },
+                    "goodPrice": {
+                        "_text": "1700"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1033"
+                    },
+                    "goodPrice": {
+                        "_text": "1200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1034"
+                    },
+                    "goodPrice": {
+                        "_text": "600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1036"
+                    },
+                    "goodPrice": {
+                        "_text": "1400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1037"
+                    },
+                    "goodPrice": {
+                        "_text": "1300"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1038"
+                    },
+                    "goodPrice": {
+                        "_text": "1100"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1039"
+                    },
+                    "goodPrice": {
+                        "_text": "3000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1040"
+                    },
+                    "goodPrice": {
+                        "_text": "1400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1049"
+                    },
+                    "goodPrice": {
+                        "_text": "5400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1052"
+                    },
+                    "goodPrice": {
+                        "_text": "5000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1064"
+                    },
+                    "goodPrice": {
+                        "_text": "2700"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1066"
+                    },
+                    "goodPrice": {
+                        "_text": "820"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1068"
+                    },
+                    "goodPrice": {
+                        "_text": "860"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1076"
+                    },
+                    "goodPrice": {
+                        "_text": "1800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1083"
+                    },
+                    "goodPrice": {
+                        "_text": "8500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1084"
+                    },
+                    "goodPrice": {
+                        "_text": "850"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1085"
+                    },
+                    "goodPrice": {
+                        "_text": "1000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1086"
+                    },
+                    "goodPrice": {
+                        "_text": "10000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1098"
+                    },
+                    "goodPrice": {
+                        "_text": "1600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1100"
+                    },
+                    "goodPrice": {
+                        "_text": "3200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1120"
+                    },
+                    "goodPrice": {
+                        "_text": "2600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1123"
+                    },
+                    "goodPrice": {
+                        "_text": "450"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1149"
+                    },
+                    "goodPrice": {
+                        "_text": "5600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "1150"
+                    },
+                    "goodPrice": {
+                        "_text": "30000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "120"
+                    },
+                    "goodPrice": {
+                        "_text": "4200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "157"
+                    },
+                    "goodPrice": {
+                        "_text": "5500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "174"
+                    },
+                    "goodPrice": {
+                        "_text": "5500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "184"
+                    },
+                    "goodPrice": {
+                        "_text": "6800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "223"
+                    },
+                    "goodPrice": {
+                        "_text": "3000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "225"
+                    },
+                    "goodPrice": {
+                        "_text": "8600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "228"
+                    },
+                    "goodPrice": {
+                        "_text": "6500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "229"
+                    },
+                    "goodPrice": {
+                        "_text": "6400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "230"
+                    },
+                    "goodPrice": {
+                        "_text": "5000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "233"
+                    },
+                    "goodPrice": {
+                        "_text": "9960"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "234"
+                    },
+                    "goodPrice": {
+                        "_text": "1500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "237"
+                    },
+                    "goodPrice": {
+                        "_text": "3500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "238"
+                    },
+                    "goodPrice": {
+                        "_text": "3000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "239"
+                    },
+                    "goodPrice": {
+                        "_text": "3400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "246"
+                    },
+                    "goodPrice": {
+                        "_text": "2600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "257"
+                    },
+                    "goodPrice": {
+                        "_text": "1950"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "266"
+                    },
+                    "goodPrice": {
+                        "_text": "1450"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "269"
+                    },
+                    "goodPrice": {
+                        "_text": "2650"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "270"
+                    },
+                    "goodPrice": {
+                        "_text": "6000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "272"
+                    },
+                    "goodPrice": {
+                        "_text": "5200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "286"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "289"
+                    },
+                    "goodPrice": {
+                        "_text": "1050"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "295"
+                    },
+                    "goodPrice": {
+                        "_text": "1900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "298"
+                    },
+                    "goodPrice": {
+                        "_text": "1200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "300"
+                    },
+                    "goodPrice": {
+                        "_text": "1900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "302"
+                    },
+                    "goodPrice": {
+                        "_text": "6000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "303"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "305"
+                    },
+                    "goodPrice": {
+                        "_text": "1300"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "308"
+                    },
+                    "goodPrice": {
+                        "_text": "3850"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "309"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "31"
+                    },
+                    "goodPrice": {
+                        "_text": "6000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "313"
+                    },
+                    "goodPrice": {
+                        "_text": "1800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "328"
+                    },
+                    "goodPrice": {
+                        "_text": "500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "332"
+                    },
+                    "goodPrice": {
+                        "_text": "5900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "333"
+                    },
+                    "goodPrice": {
+                        "_text": "1900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "410"
+                    },
+                    "goodPrice": {
+                        "_text": "4500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "411"
+                    },
+                    "goodPrice": {
+                        "_text": "5700"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "50"
+                    },
+                    "goodPrice": {
+                        "_text": "8500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "536"
+                    },
+                    "goodPrice": {
+                        "_text": "2200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "538"
+                    },
+                    "goodPrice": {
+                        "_text": "1700"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "553"
+                    },
+                    "goodPrice": {
+                        "_text": "3740"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "562"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "572"
+                    },
+                    "goodPrice": {
+                        "_text": "3000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "578"
+                    },
+                    "goodPrice": {
+                        "_text": "3000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "622"
+                    },
+                    "goodPrice": {
+                        "_text": "13600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "624"
+                    },
+                    "goodPrice": {
+                        "_text": "1480"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "673"
+                    },
+                    "goodPrice": {
+                        "_text": "7100"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "709"
+                    },
+                    "goodPrice": {
+                        "_text": "2800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "710"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "712"
+                    },
+                    "goodPrice": {
+                        "_text": "5400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "716"
+                    },
+                    "goodPrice": {
+                        "_text": "4200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "736"
+                    },
+                    "goodPrice": {
+                        "_text": "16900"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "741"
+                    },
+                    "goodPrice": {
+                        "_text": "1980"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "821"
+                    },
+                    "goodPrice": {
+                        "_text": "3400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "840"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "853"
+                    },
+                    "goodPrice": {
+                        "_text": "5600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "872"
+                    },
+                    "goodPrice": {
+                        "_text": "1660"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "874"
+                    },
+                    "goodPrice": {
+                        "_text": "800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "875"
+                    },
+                    "goodPrice": {
+                        "_text": "4400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "876"
+                    },
+                    "goodPrice": {
+                        "_text": "400"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "877"
+                    },
+                    "goodPrice": {
+                        "_text": "6800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "879"
+                    },
+                    "goodPrice": {
+                        "_text": "4000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "880"
+                    },
+                    "goodPrice": {
+                        "_text": "1600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "924"
+                    },
+                    "goodPrice": {
+                        "_text": "5000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "925"
+                    },
+                    "goodPrice": {
+                        "_text": "2500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "928"
+                    },
+                    "goodPrice": {
+                        "_text": "350"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "929"
+                    },
+                    "goodPrice": {
+                        "_text": "300"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "930"
+                    },
+                    "goodPrice": {
+                        "_text": "500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "931"
+                    },
+                    "goodPrice": {
+                        "_text": "2000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "933"
+                    },
+                    "goodPrice": {
+                        "_text": "700"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "935"
+                    },
+                    "goodPrice": {
+                        "_text": "1200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "936"
+                    },
+                    "goodPrice": {
+                        "_text": "1000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "937"
+                    },
+                    "goodPrice": {
+                        "_text": "3750"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "943"
+                    },
+                    "goodPrice": {
+                        "_text": "600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "944"
+                    },
+                    "goodPrice": {
+                        "_text": "1000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "945"
+                    },
+                    "goodPrice": {
+                        "_text": "1000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "964"
+                    },
+                    "goodPrice": {
+                        "_text": "6300"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "966"
+                    },
+                    "goodPrice": {
+                        "_text": "1200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "967"
+                    },
+                    "goodPrice": {
+                        "_text": "1200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "968"
+                    },
+                    "goodPrice": {
+                        "_text": "4500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "974"
+                    },
+                    "goodPrice": {
+                        "_text": "1600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "975"
+                    },
+                    "goodPrice": {
+                        "_text": "2100"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "982"
+                    },
+                    "goodPrice": {
+                        "_text": "3200"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "983"
+                    },
+                    "goodPrice": {
+                        "_text": "4600"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "984"
+                    },
+                    "goodPrice": {
+                        "_text": "1350"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "985"
+                    },
+                    "goodPrice": {
+                        "_text": "1000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "988"
+                    },
+                    "goodPrice": {
+                        "_text": "500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "989"
+                    },
+                    "goodPrice": {
+                        "_text": "500"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "991"
+                    },
+                    "goodPrice": {
+                        "_text": "1170"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "992"
+                    },
+                    "goodPrice": {
+                        "_text": "3800"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "993"
+                    },
+                    "goodPrice": {
+                        "_text": "6000"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                },
+                {
+                    "goodInspectDay": {
+                        "_text": "20210820"
+                    },
+                    "entpId": {
+                        "_text": "642"
+                    },
+                    "goodId": {
+                        "_text": "998"
+                    },
+                    "goodPrice": {
+                        "_text": "1150"
+                    },
+                    "plusoneYn": {
+                        "_text": "N"
+                    },
+                    "goodDcYn": {
+                        "_text": "N"
+                    },
+                    "inputDttm": {
+                        "_text": "2021-08-20 14:39:50"
+                    }
+                }
+            ]
+        },
+        "resultCode": {
+            "_text": "00"
+        },
+        "resultMsg": {
+            "_text": "ok"
+        }
+    }
+}

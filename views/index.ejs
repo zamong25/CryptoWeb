@@ -42,6 +42,7 @@
         src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5b744676bffa5b44d8895f0e24ca6c62&libraries=services,clusterer"></script>
     <script type="text/javascript"
         src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../routes/index.js"></script>
     <script>
 
         $(document).ready(function(){
@@ -120,6 +121,19 @@
                     // 마커에 클릭이벤트를 등록합니다
                     kakao.maps.event.addListener(marker, 'click', function () {
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
+    
+                        $.ajax({
+                            url: 'http://localhost:3000',
+                            type: 'POST',
+                            data: { 'martName' : '<%= mart.list[i].name %>' },
+                            success: function(res) {
+                                console.log("success");
+                                console.log(res.list[0].goodId._text);
+                            },
+                            error: function(err) {
+                                console.log(err);
+                            }
+                        });
                     });
 
                     // for cluster
