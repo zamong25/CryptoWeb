@@ -1,0 +1,2884 @@
+{
+  "list": [
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1099" },
+      "goodPrice": { "_text": "18980" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "11" },
+      "goodPrice": { "_text": "2700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1100" },
+      "goodPrice": { "_text": "3750" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "111" },
+      "goodPrice": { "_text": "1300" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1120" },
+      "goodPrice": { "_text": "2470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1122" },
+      "goodPrice": { "_text": "4690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "113" },
+      "goodPrice": { "_text": "2310" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1144" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1146" },
+      "goodPrice": { "_text": "27500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1147" },
+      "goodPrice": { "_text": "6590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1148" },
+      "goodPrice": { "_text": "4790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1149" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1152" },
+      "goodPrice": { "_text": "5490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1153" },
+      "goodPrice": { "_text": "11750" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1154" },
+      "goodPrice": { "_text": "5490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1155" },
+      "goodPrice": { "_text": "4490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "120" },
+      "goodPrice": { "_text": "4390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "14" },
+      "goodPrice": { "_text": "9050" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "143" },
+      "goodPrice": { "_text": "3850" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "144" },
+      "goodPrice": { "_text": "9900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "148" },
+      "goodPrice": { "_text": "6000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "15" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "157" },
+      "goodPrice": { "_text": "4400" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "161" },
+      "goodPrice": { "_text": "11500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "163" },
+      "goodPrice": { "_text": "11900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "168" },
+      "goodPrice": { "_text": "4090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "174" },
+      "goodPrice": { "_text": "5000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "184" },
+      "goodPrice": { "_text": "5700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "201" },
+      "goodPrice": { "_text": "7400" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "217" },
+      "goodPrice": { "_text": "17900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "223" },
+      "goodPrice": { "_text": "2800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "224" },
+      "goodPrice": { "_text": "2650" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "225" },
+      "goodPrice": { "_text": "8390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "228" },
+      "goodPrice": { "_text": "5190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "229" },
+      "goodPrice": { "_text": "6290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "230" },
+      "goodPrice": { "_text": "3590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "233" },
+      "goodPrice": { "_text": "9240" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "234" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "235" },
+      "goodPrice": { "_text": "1490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "237" },
+      "goodPrice": { "_text": "3300" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "238" },
+      "goodPrice": { "_text": "2850" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "239" },
+      "goodPrice": { "_text": "2590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "24" },
+      "goodPrice": { "_text": "8390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "241" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "242" },
+      "goodPrice": { "_text": "2850" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "243" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "246" },
+      "goodPrice": { "_text": "2470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "247" },
+      "goodPrice": { "_text": "4470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "248" },
+      "goodPrice": { "_text": "13910" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "252" },
+      "goodPrice": { "_text": "2110" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "253" },
+      "goodPrice": { "_text": "4790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "254" },
+      "goodPrice": { "_text": "4590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "255" },
+      "goodPrice": { "_text": "4420" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "257" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "258" },
+      "goodPrice": { "_text": "22290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "265" },
+      "goodPrice": { "_text": "1360" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "266" },
+      "goodPrice": { "_text": "1360" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "269" },
+      "goodPrice": { "_text": "2600" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "270" },
+      "goodPrice": { "_text": "5490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "272" },
+      "goodPrice": { "_text": "6190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "273" },
+      "goodPrice": { "_text": "2600" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "280" },
+      "goodPrice": { "_text": "15900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "282" },
+      "goodPrice": { "_text": "7490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "283" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "286" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "289" },
+      "goodPrice": { "_text": "1080" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "291" },
+      "goodPrice": { "_text": "2690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "292" },
+      "goodPrice": { "_text": "1690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "295" },
+      "goodPrice": { "_text": "3990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "298" },
+      "goodPrice": { "_text": "1690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "30" },
+      "goodPrice": { "_text": "8900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "300" },
+      "goodPrice": { "_text": "1880" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "302" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "305" },
+      "goodPrice": { "_text": "1690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "308" },
+      "goodPrice": { "_text": "5090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "309" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "31" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "312" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "313" },
+      "goodPrice": { "_text": "2090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "317" },
+      "goodPrice": { "_text": "2790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "319" },
+      "goodPrice": { "_text": "7190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "321" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "322" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "325" },
+      "goodPrice": { "_text": "3120" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "328" },
+      "goodPrice": { "_text": "700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "332" },
+      "goodPrice": { "_text": "7330" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "333" },
+      "goodPrice": { "_text": "2090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "334" },
+      "goodPrice": { "_text": "8570" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "35" },
+      "goodPrice": { "_text": "1500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "405" },
+      "goodPrice": { "_text": "4790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "406" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "410" },
+      "goodPrice": { "_text": "3490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "411" },
+      "goodPrice": { "_text": "3390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "412" },
+      "goodPrice": { "_text": "3490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "422" },
+      "goodPrice": { "_text": "1500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "423" },
+      "goodPrice": { "_text": "1300" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "426" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "432" },
+      "goodPrice": { "_text": "3990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "438" },
+      "goodPrice": { "_text": "16500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "439" },
+      "goodPrice": { "_text": "14900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "44" },
+      "goodPrice": { "_text": "10740" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "445" },
+      "goodPrice": { "_text": "7500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "452" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "5" },
+      "goodPrice": { "_text": "3700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "50" },
+      "goodPrice": { "_text": "9900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "522" },
+      "goodPrice": { "_text": "9500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "523" },
+      "goodPrice": { "_text": "4790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "532" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "536" },
+      "goodPrice": { "_text": "4490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "537" },
+      "goodPrice": { "_text": "4290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "538" },
+      "goodPrice": { "_text": "1580" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "545" },
+      "goodPrice": { "_text": "2000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "547" },
+      "goodPrice": { "_text": "1400" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "548" },
+      "goodPrice": { "_text": "1500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "553" },
+      "goodPrice": { "_text": "3380" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "557" },
+      "goodPrice": { "_text": "1690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "562" },
+      "goodPrice": { "_text": "2390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "572" },
+      "goodPrice": { "_text": "3090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "573" },
+      "goodPrice": { "_text": "7990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "578" },
+      "goodPrice": { "_text": "2890" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "59" },
+      "goodPrice": { "_text": "3280" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "590" },
+      "goodPrice": { "_text": "13000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "610" },
+      "goodPrice": { "_text": "8200" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "614" },
+      "goodPrice": { "_text": "3690" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "617" },
+      "goodPrice": { "_text": "3000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "62" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "622" },
+      "goodPrice": { "_text": "13280" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "624" },
+      "goodPrice": { "_text": "1360" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "638" },
+      "goodPrice": { "_text": "9990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "640" },
+      "goodPrice": { "_text": "5380" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "670" },
+      "goodPrice": { "_text": "7900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "673" },
+      "goodPrice": { "_text": "7590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "674" },
+      "goodPrice": { "_text": "1140" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "675" },
+      "goodPrice": { "_text": "2200" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "681" },
+      "goodPrice": { "_text": "5560" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "687" },
+      "goodPrice": { "_text": "8900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "691" },
+      "goodPrice": { "_text": "25800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "692" },
+      "goodPrice": { "_text": "17900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "696" },
+      "goodPrice": { "_text": "4050" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "697" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "702" },
+      "goodPrice": { "_text": "4900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "707" },
+      "goodPrice": { "_text": "10500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "709" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "710" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "711" },
+      "goodPrice": { "_text": "2970" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "712" },
+      "goodPrice": { "_text": "5000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "714" },
+      "goodPrice": { "_text": "10600" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "716" },
+      "goodPrice": { "_text": "3200" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "719" },
+      "goodPrice": { "_text": "54900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "721" },
+      "goodPrice": { "_text": "7650" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "722" },
+      "goodPrice": { "_text": "5990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "736" },
+      "goodPrice": { "_text": "18150" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "737" },
+      "goodPrice": { "_text": "3700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "738" },
+      "goodPrice": { "_text": "450" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "740" },
+      "goodPrice": { "_text": "800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "741" },
+      "goodPrice": { "_text": "2500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "742" },
+      "goodPrice": { "_text": "3990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "757" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "758" },
+      "goodPrice": { "_text": "1540" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "759" },
+      "goodPrice": { "_text": "9240" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "821" },
+      "goodPrice": { "_text": "3490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "830" },
+      "goodPrice": { "_text": "3400" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "832" },
+      "goodPrice": { "_text": "4490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "834" },
+      "goodPrice": { "_text": "1890" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "835" },
+      "goodPrice": { "_text": "8980" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "836" },
+      "goodPrice": { "_text": "5800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "840" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "842" },
+      "goodPrice": { "_text": "1390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "844" },
+      "goodPrice": { "_text": "2800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "846" },
+      "goodPrice": { "_text": "7490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "847" },
+      "goodPrice": { "_text": "3700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "848" },
+      "goodPrice": { "_text": "3490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "849" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "851" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "852" },
+      "goodPrice": { "_text": "10490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "853" },
+      "goodPrice": { "_text": "5090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "854" },
+      "goodPrice": { "_text": "20880" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "856" },
+      "goodPrice": { "_text": "3290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "859" },
+      "goodPrice": { "_text": "2880" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "863" },
+      "goodPrice": { "_text": "4290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "866" },
+      "goodPrice": { "_text": "4790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "87" },
+      "goodPrice": { "_text": "2000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "870" },
+      "goodPrice": { "_text": "11700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "871" },
+      "goodPrice": { "_text": "1100" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "872" },
+      "goodPrice": { "_text": "2100" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "874" },
+      "goodPrice": { "_text": "1040" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "875" },
+      "goodPrice": { "_text": "6240" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "876" },
+      "goodPrice": { "_text": "480" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "877" },
+      "goodPrice": { "_text": "9600" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "878" },
+      "goodPrice": { "_text": "350" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "879" },
+      "goodPrice": { "_text": "3600" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "880" },
+      "goodPrice": { "_text": "1700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "882" },
+      "goodPrice": { "_text": "29450" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "884" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "887" },
+      "goodPrice": { "_text": "25200" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "889" },
+      "goodPrice": { "_text": "10900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "891" },
+      "goodPrice": { "_text": "4900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "893" },
+      "goodPrice": { "_text": "13000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "894" },
+      "goodPrice": { "_text": "8470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "895" },
+      "goodPrice": { "_text": "17900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "899" },
+      "goodPrice": { "_text": "2650" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "900" },
+      "goodPrice": { "_text": "5900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "901" },
+      "goodPrice": { "_text": "7900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "902" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "907" },
+      "goodPrice": { "_text": "3990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "908" },
+      "goodPrice": { "_text": "8990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "911" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "924" },
+      "goodPrice": { "_text": "4390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "927" },
+      "goodPrice": { "_text": "1590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "928" },
+      "goodPrice": { "_text": "499" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "931" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "933" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "934" },
+      "goodPrice": { "_text": "2590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "935" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "937" },
+      "goodPrice": { "_text": "2890" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "941" },
+      "goodPrice": { "_text": "4800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "944" },
+      "goodPrice": { "_text": "1290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "945" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "963" },
+      "goodPrice": { "_text": "7990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "964" },
+      "goodPrice": { "_text": "6470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "966" },
+      "goodPrice": { "_text": "1490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "967" },
+      "goodPrice": { "_text": "1490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "970" },
+      "goodPrice": { "_text": "3500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "971" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "972" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "973" },
+      "goodPrice": { "_text": "3190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "975" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "976" },
+      "goodPrice": { "_text": "4590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "977" },
+      "goodPrice": { "_text": "4680" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "978" },
+      "goodPrice": { "_text": "7490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "979" },
+      "goodPrice": { "_text": "6990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "98" },
+      "goodPrice": { "_text": "4950" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "980" },
+      "goodPrice": { "_text": "2090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "981" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "982" },
+      "goodPrice": { "_text": "3190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "983" },
+      "goodPrice": { "_text": "3950" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "984" },
+      "goodPrice": { "_text": "1300" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "985" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "987" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "988" },
+      "goodPrice": { "_text": "700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "989" },
+      "goodPrice": { "_text": "700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "991" },
+      "goodPrice": { "_text": "1050" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "992" },
+      "goodPrice": { "_text": "5990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "993" },
+      "goodPrice": { "_text": "6090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "994" },
+      "goodPrice": { "_text": "2470" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "995" },
+      "goodPrice": { "_text": "950" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "996" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "998" },
+      "goodPrice": { "_text": "1150" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "999" },
+      "goodPrice": { "_text": "1080" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1000" },
+      "goodPrice": { "_text": "1090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1001" },
+      "goodPrice": { "_text": "1090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1002" },
+      "goodPrice": { "_text": "1090" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1003" },
+      "goodPrice": { "_text": "1390" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1004" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1005" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1006" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1007" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1008" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1012" },
+      "goodPrice": { "_text": "5900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1015" },
+      "goodPrice": { "_text": "1000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1016" },
+      "goodPrice": { "_text": "1290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1017" },
+      "goodPrice": { "_text": "3280" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1018" },
+      "goodPrice": { "_text": "4000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1019" },
+      "goodPrice": { "_text": "920" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1020" },
+      "goodPrice": { "_text": "2940" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1021" },
+      "goodPrice": { "_text": "8640" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1022" },
+      "goodPrice": { "_text": "8990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1025" },
+      "goodPrice": { "_text": "4250" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1026" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1027" },
+      "goodPrice": { "_text": "3290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1028" },
+      "goodPrice": { "_text": "5130" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1029" },
+      "goodPrice": { "_text": "3590" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1030" },
+      "goodPrice": { "_text": "900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1031" },
+      "goodPrice": { "_text": "2000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1032" },
+      "goodPrice": { "_text": "2290" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1033" },
+      "goodPrice": { "_text": "1000" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1034" },
+      "goodPrice": { "_text": "800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1035" },
+      "goodPrice": { "_text": "1430" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1036" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1037" },
+      "goodPrice": { "_text": "1790" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1038" },
+      "goodPrice": { "_text": "3490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1039" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "104" },
+      "goodPrice": { "_text": "7990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1041" },
+      "goodPrice": { "_text": "9900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1042" },
+      "goodPrice": { "_text": "23800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1043" },
+      "goodPrice": { "_text": "7990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1044" },
+      "goodPrice": { "_text": "21800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1045" },
+      "goodPrice": { "_text": "21800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1046" },
+      "goodPrice": { "_text": "8990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1047" },
+      "goodPrice": { "_text": "9900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1049" },
+      "goodPrice": { "_text": "5080" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1051" },
+      "goodPrice": { "_text": "4990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1052" },
+      "goodPrice": { "_text": "4900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1053" },
+      "goodPrice": { "_text": "5500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1054" },
+      "goodPrice": { "_text": "3990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1056" },
+      "goodPrice": { "_text": "3500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1058" },
+      "goodPrice": { "_text": "11900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1061" },
+      "goodPrice": { "_text": "11200" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1064" },
+      "goodPrice": { "_text": "2490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1066" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1068" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1069" },
+      "goodPrice": { "_text": "2190" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1070" },
+      "goodPrice": { "_text": "450" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1071" },
+      "goodPrice": { "_text": "2990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1072" },
+      "goodPrice": { "_text": "5990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1073" },
+      "goodPrice": { "_text": "6490" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1074" },
+      "goodPrice": { "_text": "5990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1075" },
+      "goodPrice": { "_text": "5990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1076" },
+      "goodPrice": { "_text": "990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1077" },
+      "goodPrice": { "_text": "1990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1079" },
+      "goodPrice": { "_text": "7990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1080" },
+      "goodPrice": { "_text": "2850" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1082" },
+      "goodPrice": { "_text": "7650" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1083" },
+      "goodPrice": { "_text": "8500" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1084" },
+      "goodPrice": { "_text": "850" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1085" },
+      "goodPrice": { "_text": "980" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1086" },
+      "goodPrice": { "_text": "9800" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1087" },
+      "goodPrice": { "_text": "12700" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1088" },
+      "goodPrice": { "_text": "8990" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    },
+    {
+      "goodInspectDay": { "_text": "20200313" },
+      "entpId": { "_text": "16" },
+      "goodId": { "_text": "1089" },
+      "goodPrice": { "_text": "7900" },
+      "plusoneYn": { "_text": "N" },
+      "goodDcYn": { "_text": "N" },
+      "inputDttm": { "_text": "2020-03-12 10:56:45" }
+    }
+  ]
+}
