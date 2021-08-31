@@ -33,30 +33,25 @@ router.post('/', function(req, res, next) {
   console.log(martName);
 
   if (martName.includes("롯데마트")) {
-    console.log("롯데마트 파일 가져와");
-    var data = fs.readFileSync('./lotteMart.json', 'utf8');
-    console.log(data);
-    res.render("index.ejs", { products : data });
+    console.log("롯데마트");
+    var data = fs.readFileSync('./LotteMart.json', 'utf8');
+    res.json(JSON.parse(data));
   }
   else if (martName.includes("롯데슈퍼")) {
-    console.log("롯데슈퍼 파일 가져와");
-    var data = fs.readFileSync('./lotteSuper.json', 'utf8');
-    //console.log(data);
+    console.log("롯데슈퍼");
+    var data = fs.readFileSync('./LotteSuper.json', 'utf8');
     res.json(JSON.parse(data));
   }
   else if (martName.includes("롯데백화점")) {
-    console.log("롯데백화점 파일 가져와");
-    var data = fs.readFileSync('./lotteDepartment.json', 'utf8');
-    console.log(data);
-    res.render("index.ejs", { products : data });
+    console.log("롯데백화점");
+    var data = fs.readFileSync('./LotteDepartment.json', 'utf8');
+    res.json(JSON.parse(data));
   }
   else {
     console.log("아무것도 아니야");
-    var data = fs.readFileSync('./lotteSuper.json', 'utf8');
-    console.log(data);
-    res.render("index.ejs", { products : data });
+    var data = fs.readFileSync('./OtherMarts.json', 'utf8');
+    res.json(JSON.parse(data));
   }
-  
 });
 
 
@@ -76,33 +71,6 @@ module.exports = router;
 })
 2. send products data by reading json file from index.js to index.ejs -> res.render()
 */
-/*
-if (mart.list[i].name.contains("롯데마트")) {
-  fs.readFile("./lotteMart.json", 'utf8', function (err, data) {
-      var products = JSON.parse(data);
-      res.render("index.ejs", { products : products });
-  });
-}
-else (mart,list[i].name.contains("롯데슈퍼")) {
-  fs.readFile("./lotteSuper.json", 'utf8', function (err, data) {
-      var products = JSON.parse(data);
-      res.render("index.ejs", { products : products });
-  });
-}
-else (mart,list[i].name.contains("롯데백화점")) {
-  fs.readFile("./lotteDepartment.json", 'utf8', function (err, data) {
-      var products = JSON.parse(data);
-      res.render("index.ejs", { products : products });
-  });
-}
-else if {
-  fs.readFile("./0806.json", 'utf8', function (err, data) {
-      var martAndProducts = JSON.parse(data);
-      res.render("index.ejs", { martAndProducts : martAndProducts });
-  });
-}
-*/
-
 
 /**
  * [The code can make martinfo.excel to json file] 
@@ -125,10 +93,6 @@ else if {
 // });
  */
 
-/* GET home page. */
-// router.get('/', function(req, res, next) {
-//   res.render('index', { title: 'Express' });
-// });
 /**
  * sleep(1000)
         .then(
@@ -148,7 +112,7 @@ else if {
         // });
   // for (var i = 0; i < 102; i++) {
 
-    //   const HOST = 'http://openapi.price.go.kr/openApiImpl/ProductPriceInfoService/getProductPriceInfoSvc.do?goodInspectDay=20210806&entpId=';
+    //   const HOST = 'http://openapi.price.go.kr/openApiImpl/ProductPriceInfoService/getProductInfoSvc.do?goodId=';
     //   const SERVICE_KEY = '&ServiceKey=5ZDC6seJhCoIWl9KnCZsc0zxjP4SgXM4ZiEw1pLdbhrkF6pTmAwm90QVpwFyP4fHfxRoqWpczp69yYIAEjGb2Q==';
     //   var num = mart.list[i].entpId;
     //   var requestUrl = `${HOST}${num}${SERVICE_KEY}`;
