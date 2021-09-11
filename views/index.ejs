@@ -8,7 +8,6 @@
     <title>Home</title>
     <link href="/stylesheets/style.css" type="text/css" rel="stylesheet"></link>
 </head>
-
 <body>
     <header>
         <h2>HELLO MART</h2>
@@ -38,9 +37,21 @@
                         src="https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/ico_minus.png" alt="축소"></span>
             </div>
         </div>
-
-        <!-- pop up view for products -->
-
+        <div class="popup-box">
+            <div class="popup-content">
+                <div class="popup-header">
+                   <h3></h3>
+                   <span class="popup-close-icon">&times;</span>
+                </div>
+                <div class="popup-body">
+                  
+                </div>
+                <div class="popup-footer">
+                  <button class="btn popup-close-btn">Close</button>
+                </div>
+            </div>
+        </div>
+    <!-- pop up view for products -->
     <script type="text/javascript"
         src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5b744676bffa5b44d8895f0e24ca6c62&libraries=services,clusterer"></script>
     <script type="text/javascript"
@@ -50,8 +61,16 @@
 
         $(document).ready(function(){
             $('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
-            $(#header).load("/header.html");
         })
+
+        // 마커를 클릭했을 때 해당 장소의 상세정보를 보여줄 커스텀오버레이입니다
+        var placeOverlay = new kakao.maps.CustomOverlay({zIndex:1}), 
+            contentNode = document.createElement('div'); // 커스텀 오버레이의 컨텐츠 엘리먼트 입니다 
+
+        contentNode.className = 'placeinfo_wrap';
+
+        // 커스텀 오버레이 컨텐츠를 설정합니다
+        placeOverlay.setContent(contentNode);
 
         var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
             mapOption = {
@@ -124,6 +143,11 @@
 
                     // 마커에 클릭이벤트를 등록합니다
                     kakao.maps.event.addListener(marker, 'click', function () {
+
+                        // 커스텀 오버레이를 숨깁니다 
+                        placeOverlay.setMap(null);
+
+                        // show info on the left
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
                         
                         $.ajax({
@@ -136,7 +160,6 @@
                             }
                         });
                     });
-
                     // for cluster
                     markers.push(marker);
                 }
@@ -199,6 +222,26 @@
         // 클릭한 마커에 대한 장소 상세정보를 커스텀 오버레이로 표시하는 함수입니다
         function displayPlaceInfo(place) {
             $("#mart_info").attr('src', 'https://place.map.kakao.com/m/'+ place.place_url.substring(27));
+
+            // windowinfo
+            var content = '<div class="placeinfo">' +
+                            '   <a class="title" href="' + place.place_url + '" target="_blank" title="' + place.place_name + '">' + place.place_name + '</a>';   
+
+            if (place.road_address_name) {
+                content += '    <span title="' + place.road_address_name + '">' + place.road_address_name + '</span>' +
+                           '   <span class="jibun" title="' + place.address_name + '">(지번 : ' + place.address_name + ')</span>';
+            }
+            else {
+                content += '    <span title="' + place.address_name + '">' + place.address_name + '</span>';
+            }                
+        
+            content += '    <span class="tel">' + place.phone + '</span>' + 
+                          '</div>' + 
+                        '<div class="after"></div>';
+
+            contentNode.innerHTML = content;
+            placeOverlay.setPosition(new kakao.maps.LatLng(place.y, place.x));
+            placeOverlay.setMap(map);
         }
 
         /**
@@ -229,35 +272,44 @@
             map.setLevel(map.getLevel() + 1);
         }
 
-        // popup for products
-        const serviceItems = document.querySelector(".service-items");
-        const popup = document.querySelector(".popup-box")
-        const popupCloseBtn = popup.querySelector(".popup-close-btn");
-        const popupCloseIcon = popup.querySelector(".popup-close-icon");
-
-        serviceItems.addEventListener("click",function(event){
-            if(event.target.tagName.toLowerCase() == "button"){
-            const item =event.target.parentElement;
-            const h3 = item.querySelector("h3").innerHTML;
-            const readMoreCont = item.querySelector(".read-more-cont").innerHTML;
-            popup.querySelector("h3").innerHTML = h3;
-            popup.querySelector(".popup-body").innerHTML = readMoreCont;
-            popupBox();
-            }
-        })
-
-        popupCloseBtn.addEventListener("click", popupBox);
-        popupCloseIcon.addEventListener("click", popupBox);
-
-        popup.addEventListener("click", function(event){
-            if(event.target == popup){
-                popupBox();
-            }
-        })
-
-        function popupBox(){
-            popup.classList.toggle("open");
+        // 지도 위에 표시되고 있는 마커를 모두 제거합니다
+        function removeMarker() {
+            for ( var i = 0; i < markers.length; i++ ) {
+                markers[i].setMap(null);
+            }   
+            markers = [];
         }
+
+        // popup for products
+        // const serviceItems = document.querySelector(".service-items");
+        // const popup = document.querySelector(".popup-box");
+        // const popupCloseBtn = popup.querySelector(".popup-close-btn");
+        // const popupCloseIcon = popup.querySelector(".popup-close-icon");
+
+        // //$('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
+        // serviceItems.addEventListener("click", function(event) {
+        //     if (event.target.tagName.toLowerCase() == "button") {
+        //         const item = event.target.parentElement;
+        //         const h3 = item.querySelector("h3").innerHTML;
+        //         // const readMoreCont = item.querySelector(".read-more-cont").innerHTML;
+        //         popup.querySelector("h3").innerHTML = h3;
+        //         // popup.querySelector(".popup-body").innerHTML = readMoreCont;
+        //         popupBox();
+        //     }
+        // })
+
+        // popupCloseBtn.addEventListener("click", popupBox);
+        // popupCloseIcon.addEventListener("click", popupBox);
+
+        // popup.addEventListener("click", function(event){
+        //     if (event.target == popup) {
+        //         popupBox();
+        //     }
+        // })
+
+        // function popupBox(){
+        //     popup.classList.toggle("open");
+        // }
     </script>
 </body>
 
