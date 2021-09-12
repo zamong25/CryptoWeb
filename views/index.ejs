@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet"></link>
@@ -42,9 +41,12 @@
                 <div class="popup-header">
                    <h3></h3>
                    <span class="popup-close-icon">&times;</span>
+                   <div style="text-align: right;">
+                        <input type="text" hint="product name" style="color: gray;" id="searchItem">
+                        <input type="button" value="search" id="btn_searchItem">
+                    </div>
                 </div>
                 <div class="popup-body">
-                  
                 </div>
                 <div class="popup-footer">
                   <button class="btn popup-close-btn">Close</button>
@@ -59,8 +61,17 @@
     <script src="../routes/index.js"></script>
     <script>
 
+        const popup = document.querySelector(".popup-box");
+        const popupCloseBtn = popup.querySelector(".popup-close-btn");
+        const popupCloseIcon = popup.querySelector(".popup-close-icon");
+
         $(document).ready(function(){
             $('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
+
+            popupCloseBtn.addEventListener("click", popupBox);
+            popupCloseIcon.addEventListener("click", popupBox);
+
+            $('#btn_searchItem').click(searchItem);
         })
 
         // 마커를 클릭했을 때 해당 장소의 상세정보를 보여줄 커스텀오버레이입니다
@@ -171,23 +182,22 @@
         function showProducts(res) {
             console.log("get products successfully");
 
+            var content = "";
             var martName = $("#mart_name").text();
+            popup.querySelector("h3").innerHTML = martName;
 
             for (var i = 0; i < res.list.length; i++) {
-                var content = "";
-                content += '<div class="oneProduct" style="border: 1px; border-color:gray;">'
-                content +=      '<div class="martTitle" style="border: 1px; border-color:gray;">'+ martName + '</div>';
-                content +=      '<div class="goodName" style="font-size: 15px; font-weight: bold;">' + res.list[i].goodName._text + '</div>'; 
-                content +=      '<div class="goodPrice" style="font-size: 13px; color: red;"> Price : ' + res.list[i].goodPrice._text + '</div>'; 
-                content +=      '<div class="options">';
-                content +=          '<div class="onePlueOne" style="font-size: 10px; color: blue;"> One plue one : ' + res.list[i].plusoneYn._text + '</div>';
-                content +=          '  |  '
-                content +=          '<div class="discount" style="font-size: 10px; color: blue;"> Discount :' + res.list[i].goodDcYn._text + '</div>';
+                content += '<div class="oneProduct" style="border: 1px; border-color:gray;">';
+                content +=      '<div class="goodName" style="font-size: 15px; font-weight: bold;">' + res.list[i].goodName + '</div>'; 
+                content +=      '<div class="goodPrice" style="font-size: 13px; color: red;"> Price : ' + res.list[i].goodPrice + '</div>'; 
+                content +=      '<div class="options" style="font-size: 11px; color: blue;">';
+                content +=          'discount : ' + res.list[i].goodDcYn;
                 content +=      '</div>';
-                content +=      '<div class="detailMean" style="font-size: 10px;">' + res.list[i].detailMean._text + '</div>';
-                content += '</div>'
-                products_info.innerHTML = content;
+                if (res.list[i].detailMean != 0) 
+                    content += '<div class="desc" style="font-size: 11px;">' + res.list[i].detailMean + '</div>'; 
+                content += '</div> <br>';
             }
+            popup.querySelector(".popup-body").innerHTML = content;
         }
 
         // 마커 클러스터러에 클릭이벤트를 등록합니다
@@ -225,10 +235,10 @@
 
             // windowinfo
             var content = '<div class="placeinfo">' +
-                            '   <a class="title" href="' + place.place_url + '" target="_blank" title="' + place.place_name + '">' + place.place_name + '</a>';   
+                           '   <div class="title">' + place.place_name + '</div>';
 
             if (place.road_address_name) {
-                content += '    <span title="' + place.road_address_name + '">' + place.road_address_name + '</span>' +
+                content += '   <span title="' + place.road_address_name + '">' + place.road_address_name + '</span>' +
                            '   <span class="jibun" title="' + place.address_name + '">(지번 : ' + place.address_name + ')</span>';
             }
             else {
@@ -242,6 +252,14 @@
             contentNode.innerHTML = content;
             placeOverlay.setPosition(new kakao.maps.LatLng(place.y, place.x));
             placeOverlay.setMap(map);
+
+            $(".title").click(function() {
+                popupBox();
+            });
+        }
+
+        function popupBox() {
+            popup.classList.toggle("open");
         }
 
         /**
@@ -280,36 +298,24 @@
             markers = [];
         }
 
-        // popup for products
-        // const serviceItems = document.querySelector(".service-items");
-        // const popup = document.querySelector(".popup-box");
-        // const popupCloseBtn = popup.querySelector(".popup-close-btn");
-        // const popupCloseIcon = popup.querySelector(".popup-close-icon");
+        // searchItem in popup box
+        function searchItem() {
+            var itemName = $('#searchItem').val();
+            var martName2 = popup.querySelector("h3").innerHTML;
+            console.log(martName2);
+            
+            // if (res.item[i].goodName include itemName) show 
+            $.ajax({
+                url: 'http://localhost:3000/searchItem',
+                type: 'POST',
+                data: { 'martName' : martName2, 'itemName' : itemName },
+                success: showProducts,
+                error: function(err) {
+                    console.log(err);
+                }
+            });
+        }
 
-        // //$('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
-        // serviceItems.addEventListener("click", function(event) {
-        //     if (event.target.tagName.toLowerCase() == "button") {
-        //         const item = event.target.parentElement;
-        //         const h3 = item.querySelector("h3").innerHTML;
-        //         // const readMoreCont = item.querySelector(".read-more-cont").innerHTML;
-        //         popup.querySelector("h3").innerHTML = h3;
-        //         // popup.querySelector(".popup-body").innerHTML = readMoreCont;
-        //         popupBox();
-        //     }
-        // })
-
-        // popupCloseBtn.addEventListener("click", popupBox);
-        // popupCloseIcon.addEventListener("click", popupBox);
-
-        // popup.addEventListener("click", function(event){
-        //     if (event.target == popup) {
-        //         popupBox();
-        //     }
-        // })
-
-        // function popupBox(){
-        //     popup.classList.toggle("open");
-        // }
     </script>
 </body>
 
