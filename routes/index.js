@@ -11,6 +11,7 @@ const parser = new DomParser();
 const convert = require('xml-js');
 const request = require('request');
 const { getSystemErrorMap } = require('util');
+var $ = require('jquery');
 
 process.on("uncaughtException", function(err) { 
   console.error("uncaughtException (Node is alive)", err); 
@@ -32,10 +33,31 @@ router.post('/', function(req, res, next) {
   var martName = req.body.martName;
   console.log(martName);
 
+  var result = sendMartData(martName, "");
+  res.json(result);
+});
+
+function sendMartData(martName, itemName) {
+  
   if (martName.includes("롯데마트")) {
+
     console.log("롯데마트");
     var data = fs.readFileSync('./LotteMart.json', 'utf8');
-    res.json(JSON.parse(data));
+    
+    if (itemName == "") return JSON.parse(data);
+    else {
+      var itemData = "";
+      var allData = JSON.parse(data);
+
+      Object.keys(allData).forEach(function(key, index) {
+        console.log(key[0]);
+        console.log(index);
+        if (key[index].goodName.includes(itemName)) itemData += allData[index];
+      });
+
+      console.log(itemData);
+      return JSON.parse(itemData);
+    }
   }
   else if (martName.includes("롯데슈퍼")) {
     console.log("롯데슈퍼");
@@ -52,8 +74,19 @@ router.post('/', function(req, res, next) {
     var data = fs.readFileSync('./OtherMarts.json', 'utf8');
     res.json(JSON.parse(data));
   }
-});
+};
 
+router.post('/searchItem', function(req, res, next) {
+
+    var martName = req.body.martName;
+    var itemName = req.body.itemName;
+
+    console.log(martName);
+    console.log(itemName);
+
+    var result = sendMartData(martName, itemName);
+    res.json(result);
+});
 
 router.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
