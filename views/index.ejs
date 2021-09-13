@@ -40,6 +40,7 @@
             <div class="popup-content">
                 <div class="popup-header">
                    <h3></h3>
+                   <input type="hidden" id="mart_entpId" value="">
                    <span class="popup-close-icon">&times;</span>
                    <div style="text-align: right;">
                         <input type="text" hint="product name" style="color: gray;" id="searchItem">
@@ -161,10 +162,13 @@
                         // show info on the left
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
                         
+                        $('#mart_entpId').attr('value', '<%= mart.list[i].entpId %>');
+                        console.log($('#mart_entpId').val());
+
                         $.ajax({
                             url: 'http://localhost:3000',
                             type: 'POST',
-                            data: { 'martName' : '<%= mart.list[i].name %>' },
+                            data: { 'martName' : '<%= mart.list[i].name %>', 'entpId' : '<%= mart.list[i].entpId %>' },
                             success: showProducts,
                             error: function(err) {
                                 console.log(err);
@@ -183,8 +187,15 @@
             console.log("get products successfully");
 
             var content = "";
-            var martName = $("#mart_name").text();
-            popup.querySelector("h3").innerHTML = martName;
+            console.log(res.martName);
+
+            if (res.martName) {
+                popup.querySelector("h3").innerHTML = res.martName;
+            }
+            else {
+                var martName = $("#mart_name").text();
+                popup.querySelector("h3").innerHTML = martName;
+            }
 
             for (var i = 0; i < res.list.length; i++) {
                 content += '<div class="oneProduct" style="border: 1px; border-color:gray;">';
@@ -302,13 +313,14 @@
         function searchItem() {
             var itemName = $('#searchItem').val();
             var martName2 = popup.querySelector("h3").innerHTML;
-            console.log(martName2);
+            var entpId = $('#mart_entpId').val();
+            console.log(entpId);
             
-            // if (res.item[i].goodName include itemName) show 
+            // if (res.item[i].goodName include itemName, show 
             $.ajax({
                 url: 'http://localhost:3000/searchItem',
                 type: 'POST',
-                data: { 'martName' : martName2, 'itemName' : itemName },
+                data: { 'martName' : martName2, 'entpId': entpId, 'itemName' : itemName },
                 success: showProducts,
                 error: function(err) {
                     console.log(err);

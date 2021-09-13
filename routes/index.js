@@ -11,10 +11,10 @@ const parser = new DomParser();
 const convert = require('xml-js');
 const request = require('request');
 const { getSystemErrorMap } = require('util');
-var $ = require('jquery');
+const JSONStream = require('JSONStream');
 
 process.on("uncaughtException", function(err) { 
-  console.error("uncaughtException (Node is alive)", err); 
+  console.error("uncaughtException (Node is alive)", err);
 });
 
 function sleep(ms) {
@@ -31,13 +31,13 @@ router.get('/', function(req, res) {
 router.post('/', function(req, res, next) {
 
   var martName = req.body.martName;
-  console.log(martName);
+  var entpId = req.body.entpId;
 
-  var result = sendMartData(martName, "");
+  var result = sendMartData(martName, entpId, "");
   res.json(result);
 });
 
-function sendMartData(martName, itemName) {
+function sendMartData(martName, entpId, itemName) {
   
   if (martName.includes("롯데마트")) {
 
@@ -46,33 +46,84 @@ function sendMartData(martName, itemName) {
     
     if (itemName == "") return JSON.parse(data);
     else {
-      var itemData = "";
+      var itemData = { "martName": [], "list" : [] };
       var allData = JSON.parse(data);
 
-      Object.keys(allData).forEach(function(key, index) {
-        console.log(key[0]);
-        console.log(index);
-        if (key[index].goodName.includes(itemName)) itemData += allData[index];
-      });
-
+      for (index in allData.list) {
+        if (allData.list[index].goodName.includes(itemName)) itemData['list'].push(allData.list[index]);
+      }
+      itemData['martName'].push(martName);
       console.log(itemData);
-      return JSON.parse(itemData);
+
+      return itemData;
     }
   }
   else if (martName.includes("롯데슈퍼")) {
     console.log("롯데슈퍼");
     var data = fs.readFileSync('./LotteSuper.json', 'utf8');
-    res.json(JSON.parse(data));
+
+    if (itemName == "") return JSON.parse(data);
+    else {
+      var itemData = { "martName": [], "list" : [] };
+      var allData = JSON.parse(data);
+
+      for (index in allData.list) {
+        if (allData.list[index].goodName.includes(itemName)) itemData['list'].push(allData.list[index]);
+      }
+      itemData['martName'].push(martName);
+      console.log(itemData);
+
+      return itemData;
+    }
   }
   else if (martName.includes("롯데백화점")) {
     console.log("롯데백화점");
     var data = fs.readFileSync('./LotteDepartment.json', 'utf8');
-    res.json(JSON.parse(data));
+
+    if (itemName == "") return JSON.parse(data);
+    else {
+      var itemData = { "martName": [], "list" : [] };
+      var allData = JSON.parse(data);
+
+      for (index in allData.list) {
+        if (allData.list[index].goodName.includes(itemName)) itemData['list'].push(allData.list[index]);
+      }
+      itemData['martName'].push(martName);
+      console.log(itemData);
+
+      return itemData;
+    }
   }
   else {
     console.log("아무것도 아니야");
-    var data = fs.readFileSync('./OtherMarts.json', 'utf8');
-    res.json(JSON.parse(data));
+    var itemData = { "martName": [], "list" : [] };
+    // var data = fs.readFileSync('./OtherMarts.json', 'utf8');
+    var stream = fs.createReadStream('./OtherMarts.json', {encoding: 'utf8'});
+    var parser = JSONStream.parse();
+
+    stream.pipe(parser);
+
+    if (itemName == "") {
+      parser.on('data', function(obj) {
+          for (index in obj.list) {
+            if (obj.list[index].entpId == entpId) itemData['list'].push(obj.list[index]);
+          }
+          itemData['martName'].push(martName);
+          console.log(itemData); // ok
+          return itemData; // problem
+      });
+    }
+    else { // must modify
+      var allData = JSON.parse(data);
+
+      for (index in allData.list) {
+        if (allData.list[index].goodName.includes(itemName)) itemData['list'].push(allData.list[index]);
+      }
+      itemData['martName'].push(martName);
+      console.log(itemData);
+
+      return itemData;
+    }
   }
 };
 
@@ -80,11 +131,9 @@ router.post('/searchItem', function(req, res, next) {
 
     var martName = req.body.martName;
     var itemName = req.body.itemName;
+    var entpId = req.body.entpId;
 
-    console.log(martName);
-    console.log(itemName);
-
-    var result = sendMartData(martName, itemName);
+    var result = sendMartData(martName, entpId, itemName);
     res.json(result);
 });
 
