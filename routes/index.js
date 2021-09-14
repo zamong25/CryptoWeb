@@ -12,6 +12,7 @@ const convert = require('xml-js');
 const request = require('request');
 const { getSystemErrorMap } = require('util');
 const JSONStream = require('JSONStream');
+const es = require('event-stream');
 
 process.on("uncaughtException", function(err) { 
   console.error("uncaughtException (Node is alive)", err);
@@ -97,27 +98,21 @@ function sendMartData(martName, entpId, itemName) {
   else {
     console.log("아무것도 아니야");
     var itemData = { "martName": [], "list" : [] };
-    // var data = fs.readFileSync('./OtherMarts.json', 'utf8');
-    var stream = fs.createReadStream('./OtherMarts.json', {encoding: 'utf8'});
-    var parser = JSONStream.parse();
-
-    stream.pipe(parser);
+    var data = fs.readFileSync('./OtherMarts.json', 'utf8');
+    var allData = JSON.parse(data);
 
     if (itemName == "") {
-      parser.on('data', function(obj) {
-          for (index in obj.list) {
-            if (obj.list[index].entpId == entpId) itemData['list'].push(obj.list[index]);
-          }
-          itemData['martName'].push(martName);
-          console.log(itemData); // ok
-          return itemData; // problem
-      });
+      for (index in allData.list)
+        if (allData.list[index].entpId == entpId) itemData['list'].push(allData.list[index]);
+      itemData['martName'].push(martName);
+      return itemData;
     }
-    else { // must modify
-      var allData = JSON.parse(data);
-
+    else {
       for (index in allData.list) {
-        if (allData.list[index].goodName.includes(itemName)) itemData['list'].push(allData.list[index]);
+        if (allData.list[index].entpId == entpId) {
+          if (allData.list[index].goodName.includes(itemName))
+            itemData['list'].push(allData.list[index]);
+        }
       }
       itemData['martName'].push(martName);
       console.log(itemData);
@@ -126,6 +121,10 @@ function sendMartData(martName, entpId, itemName) {
     }
   }
 };
+
+function wait(ms) {
+  return new Promise(r => setTimeout(r, ms));
+}
 
 router.post('/searchItem', function(req, res, next) {
 
