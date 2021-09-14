@@ -30,10 +30,15 @@
             </div>
             <!-- 지도 확대, 축소 컨트롤 div 입니다 -->
             <div class="custom_zoomcontrol radius_border">
-                <span onclick="zoomIn()"><img
-                        src="https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/ico_plus.png" alt="확대"></span>
-                <span onclick="zoomOut()"><img
-                        src="https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/ico_minus.png" alt="축소"></span>
+                <span onclick="zoomIn()">
+                    <img src="https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/ico_plus.png" alt="확대">
+                </span>
+                <span onclick="zoomOut()">
+                    <img src="https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/ico_minus.png" alt="축소">
+                </span>
+            </div>
+            <div class="custom_myplace">
+                <button type="button" id="btn_myplace">내 위치</button>
             </div>
         </div>
         <div class="popup-box">
@@ -43,7 +48,7 @@
                    <input type="hidden" id="mart_entpId" value="">
                    <span class="popup-close-icon">&times;</span>
                    <div style="text-align: right;">
-                        <input type="text" hint="product name" style="color: gray;" id="searchItem">
+                        <input type="text" placeholder="Enter product name" style="color: gray;" id="searchItem">
                         <input type="button" value="search" id="btn_searchItem">
                     </div>
                 </div>
@@ -73,6 +78,9 @@
             popupCloseIcon.addEventListener("click", popupBox);
 
             $('#btn_searchItem').click(searchItem);
+            $('#btn_searchItem').click(function() { $('#searchItem').val('') });
+
+            $('#btn_myplace').click(getCurrentPosBtn);
         })
 
         // 마커를 클릭했을 때 해당 장소의 상세정보를 보여줄 커스텀오버레이입니다
@@ -185,6 +193,7 @@
 
         function showProducts(res) {
             console.log("get products successfully");
+            console.log(res);
 
             var content = "";
             console.log(res.martName);
@@ -326,6 +335,32 @@
                     console.log(err);
                 }
             });
+        }
+
+        // get current location
+        function locationLoadSuccess(pos){
+            // 현재 위치 받아오기
+            var currentPos = new kakao.maps.LatLng(pos.coords.latitude,pos.coords.longitude);
+
+            // 지도 이동(기존 위치와 가깝다면 부드럽게 이동)
+            map.panTo(currentPos);
+
+            // 마커 생성
+            var marker = new kakao.maps.Marker({
+                position: currentPos
+            });
+
+            // 기존에 마커가 있다면 제거
+            marker.setMap(null);
+            marker.setMap(map);
+        };
+
+        function locationLoadError(pos) {
+            alert('위치 정보를 가져오는데 실패했습니다.');
+        };
+
+        function getCurrentPosBtn() {
+            navigator.geolocation.getCurrentPosition(locationLoadSuccess,locationLoadError);
         }
 
     </script>
