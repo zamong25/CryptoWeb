@@ -9,19 +9,37 @@
 </head>
 <body>
     <header>
-        <h2>HELLO MART</h2>
-        <nav>
-          <span></span>
-          <span></span>
-          <span></span>
-        </nav>
+        <h2>MARTOME</h2>
     </header>
         <input type="checkbox" name="">
-        <div class="icon"><img src="./Image/toggle_leftbar.png"></div>
+        <div class="icon"><img src="./Image/mart.png"></div>
         <div class="contentNode">
-            <iframe class="mart_info" id="mart_info" scrolling="yes"></iframe>
+            <div class="martList">
+                <div class="selectCity">
+                    <input type="button" class="btn_city" id="seoul" value="서울">
+                    <input type="button" class="btn_city" id="gyongki" value="경기">
+                    <input type="button" class="btn_city" id="incheon" value="인천">
+                    <input type="button" class="btn_city" id="busan" value="부산">
+                    <input type="button" class="btn_city" id="daegu" value="대구">
+                    <input type="button" class="btn_city" id="gwangju" value="광주">
+                    <input type="button" class="btn_city" id="daejeon" value="대전">
+                    <input type="button" class="btn_city" id="ulsan" value="울산">
+                    <input type="button" class="btn_city" id="gangwon" value="강원">
+                    <input type="button" class="btn_city" id="gyungnam" value="경남">
+                    <input type="button" class="btn_city" id="gyungbuk" value="경북">
+                    <input type="button" class="btn_city" id="jeonnam" value="전남">
+                    <input type="button" class="btn_city" id="jeonbuk" value="전북">
+                    <input type="button" class="btn_city" id="chungnam" value="충남">
+                    <input type="button" class="btn_city" id="chungbuk" value="충북">
+                    <input type="button" class="btn_city" id="sejong" value="세종">
+                    <input type="button" class="btn_city" id="jeju" value="제주">
+                </div>
+                <div class="dash"></div>
+                <div class="showCity">전국</div>
+                <div class="showMartsList"></div>
+            </div>
+            <iframe class="mart_info" id="mart_info" scrolling="yes" style="display: none;"></iframe>
         </div>
-        
         <div class="map_wrap">
             <div id="map" style="width:100%;height:100%;position:relative;overflow:hidden;"></div>
             <!-- <div class="custom_typecontrol radius_border">
@@ -72,7 +90,10 @@
         const popupCloseIcon = popup.querySelector(".popup-close-icon");
 
         $(document).ready(function(){
-            $('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
+            //$('#mart_info').attr('src','https://place.map.kakao.com/m/232056222');
+            
+            showAllMart();
+            $('.btn_city').on('click', showMarts);
 
             popupCloseBtn.addEventListener("click", popupBox);
             popupCloseIcon.addEventListener("click", popupBox);
@@ -167,6 +188,9 @@
                         // 커스텀 오버레이를 숨깁니다 
                         placeOverlay.setMap(null);
 
+                        // make the mart list hidden
+                        $('.martList').attr('style', 'display: none;');
+
                         // show info on the left
                         ps.keywordSearch('<%= mart.list[i].name %>', placesSearchCB);
                         
@@ -255,6 +279,7 @@
 
         // 클릭한 마커에 대한 장소 상세정보를 커스텀 오버레이로 표시하는 함수입니다
         function displayPlaceInfo(place) {
+            $('#mart_info').attr('style','display: block;');
             $("#mart_info").attr('src', 'https://place.map.kakao.com/m/'+ place.place_url.substring(27));
 
             // windowinfo
@@ -366,6 +391,38 @@
         function getCurrentPosBtn() {
             navigator.geolocation.getCurrentPosition(locationLoadSuccess,locationLoadError);
             map.setLevel(map.getLevel() - 7);
+        }
+
+
+        var showMarts = function(e) {
+            var city = e.currentTarget.value;
+            $('.showCity').text(city);
+            $('.showCity').attr('style', 'text-decoration: underline; text-underline-offset: 5px;');
+            var content = "";
+
+            <% for (var i = 0; i < mart.list.length; i++) { %>       
+                if ('<%= mart.list[i].address %>'.includes(city)) {
+                    content += '<div style="border: 1px; border: 1px solid #919191; border-radius: 5px; margin-left: 10px; margin-bottom: 15px; padding: 5px; width: 280px;">';
+                    content +=      '<div style="font-size: 15px; padding-bottom: 5px; font-weight: bold;"><%= mart.list[i].name %></div>';
+                    content +=      '<div style="font-size: 9px; color: #2081bd; font-weight: bold;"><%= mart.list[i].address %></div>';
+                    content += '</div>'
+                }
+            <% } %>
+
+            $('.showMartsList').html(content);
+        }
+
+        function showAllMart() {
+            var content = "";
+
+            <% for (var i = 0; i < mart.list.length; i++) { %>       
+                    content += '<div style="border: 1px; border: 1px solid #919191; border-radius: 5px; margin-top: 10px; margin-left: 10px; margin-bottom: 15px; padding: 5px; width: 280px;">';
+                    content +=      '<div style="font-size: 15px; padding-bottom: 5px; font-weight: bold;"><%= mart.list[i].name %></div>';
+                    content +=      '<div style="font-size: 9px; color: #2081bd; font-weight: bold;"><%= mart.list[i].address %></div>';
+                    content += '</div>'
+            <% } %>
+
+            $('.showMartsList').html(content);
         }
 
     </script>
